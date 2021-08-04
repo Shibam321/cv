@@ -1,0 +1,58 @@
+#turtle {
+  border-radius: 50%;
+  border: 2px black solid;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.page_head {
+  text-align: center;
+
+}
+
+.hob_page_info {
+  position: relative;
+  left: 42%;
+  list-style: none;
+}
+
+.nav_links_hob {
+list-style: none;
+position: relative;
+left: 42%;
+
+}
+
+.con_page_info {
+  text-align: center;
+  list-style: none;
+  position: relative;
+  right: 22px;
+}
+
+.nav_links_con {
+  text-align: center;
+  list-style: none;
+  position: relative;
+  right: 25px;
+}
+
+/* Table on index.html*/
+
+.table_border {
+  border: 1px solid black;
+}
+
+.table_spacing_20px {
+border-spacing: 20px;
+}
+
+
+
+
+
+#skills_h1 {
+  text-align: center;
+}
